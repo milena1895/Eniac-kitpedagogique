@@ -3,7 +3,7 @@
   <head>
     <script type="text/javascript" src="ZoomifyImageViewer-min.js"></script>
     <style type="text/css"> #myContainer { width: 900px; height: 550px } </style>
-    <script type="text/javascript"> Z.showImage("myContainer", "ZoomifyImageExample"); </script>
+    <script type="text/javascript"> Z.showImage("myContainer", "TileGroup0"); </script>
   </head>
 
   <body>
